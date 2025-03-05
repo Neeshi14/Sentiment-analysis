@@ -4,7 +4,9 @@ In these dataset are two column :
 1) Reviews
 2) Sentiment
 
-Reviews -->> like the dialoges of movies , series and all 
+Reviews -->> like the dialoges of movies , series and all .
+
+
 sentiment -->> positive feedback, negative feedback
 
 # step 1 :
@@ -30,3 +32,8 @@ Training accuracy
 # step 6 :
 
 Testing the model output 
+
+
+
+Accuracy of testing : 86% 
+accuracy of training : 98%
