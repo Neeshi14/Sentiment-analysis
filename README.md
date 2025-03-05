@@ -36,4 +36,6 @@ Testing the model output
 
 
 Accuracy of testing : 86% 
-accuracy of training : 98%
+
+
+Accuracy of training : 98%
