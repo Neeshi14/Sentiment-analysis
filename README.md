@@ -5,6 +5,8 @@ This project performs **sentiment analysis** on movie and TV show reviews using 
 
 ##  Dataset: IMDB Reviews
 
+These is the dataset link [here](https://www.kaggle.com/code/lakshmi25npathi/sentiment-analysis-of-imdb-movie-reviews  ).
+
 The dataset contains two main columns:
 
 | Column    | Description                                   |
@@ -57,8 +59,8 @@ The dataset contains two main columns:
 ##  Conclusion
 
 This project demonstrates the use of **LSTM-based deep learning** for analyzing sentiment in movie and TV show reviews. The model achieved:
-- **High training accuracy (98%)**
-- **Strong generalization with 86% test accuracy**
+- ** Training accuracy (98%)**
+- ** Test accuracy (86%)**
 
 This indicates the model is effectively learning patterns and performing well on unseen data.
 
